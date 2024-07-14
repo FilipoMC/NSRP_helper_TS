@@ -1,0 +1,23 @@
+{
+  "mainServer": "1107743271578501120",
+  "clientId": "1111744443318542438",
+  "devs": ["705701074975195178"],
+  "partnerChannel": "1210565762322923540",
+  "partnerLogChannel": "1176262473381318747",
+  "sessionsChannel": "1225931845657427968",
+  "ssuPermRole": "1111743614620540929",
+  "mainRole": "1107747133785911356",
+  "partnerPingRole": "1161044713839808613",
+  "partnerRole": "1130883988211376188",
+  "appResultsChannel": "1166047766062051328",
+  "passedRole": "1187069292953473064",
+  "failedRole": "1187069303665721405",
+  "newModsChannel": "1187084034547908728",
+  "errorReportsChannel": "1197556265400942802",
+  "blacklistsChannel": "1210631573163212940",
+  "verifChannel": "1107747727233777795",
+  "activityTestsChannel": "1231590583424782376",
+  "activityTestRole": "1228454900070092980",
+  "staffRole": "1107750068406206576",
+   "loaRole": "1108490641811456071"
+}
