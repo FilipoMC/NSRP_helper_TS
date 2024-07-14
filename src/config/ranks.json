@@ -23,11 +23,12 @@
       {"name": "MG | Senior management", "role": "1201622820908707850"},
       {"name": "MG | Supervisor", "role": "1201622899417686126"},
       {"name": "MG | Director", "role": "1201624889107415121"},
+      {"name": "MG | Staff Overseer", "role": "1245725849844711506"},
       
       
-      {"name": "LS | Staff overseer", "role": "1158719159077711913"},
-      {"name": "LS | Co owner", "role": "1107745184210501772"},
-      {"name": "LS | Owner", "role": "1107745081110302800"},
+      {"name": "LS | Assistant Director", "role": "1158719159077711913"},
+      {"name": "LS | Deputy Director", "role": "1107745184210501772"},
+      {"name": "LS | Director", "role": "1107745081110302800"},
       {"name": "NSRP | Founder", "role": "1206975884951560242"}
 
       
@@ -41,7 +42,7 @@
       "1206975884951560242"
    ],
    "categories": {
-      "staff": "1107750068406206576",
+      "staff": "1232008297511518218",
       "ia": "1164978338188771358",
       "mg": "1195426257932914698",
       "ls": "1246220566155755541"
